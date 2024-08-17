@@ -19,11 +19,12 @@ This project is a simple and interactive world clock application that displays t
 ## Deployment
 
 Access the world clock application online [here](https://bhavya312007.github.io/World-Clock/).
-<!--
+
 ## Screenshots
 
-![World Clock Screenshot](https://via.placeholder.com/800x400.png?text=World+Clock)
--->
+![World Clock Screenshot](https://github.com/user-attachments/assets/aca15c63-5592-4994-87fa-15fc482ee0d0)
+
+
 
 ## Technologies Used
 
