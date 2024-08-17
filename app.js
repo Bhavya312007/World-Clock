@@ -25,9 +25,9 @@ const delay = [
 
       UI.date[i].textContent = now.getDate();
       UI.am_pm[i].textContent = now.getHours() > 12 ? 'PM' : 'AM';
-      UI.second[i].style.transform = rotate(${seconds}deg);
-      UI.minute[i].style.transform = rotate(${minutes}deg);
-      UI.hour[i].style.transform = rotate(${hours}deg);
+      UI.second[i].style.transform = `rotate(${seconds}deg)`;
+      UI.minute[i].style.transform = `rotate(${minutes}deg)`;
+      UI.hour[i].style.transform = `rotate(${hours}deg)`;
     }
     requestAnimationFrame(updateClock);
   }
